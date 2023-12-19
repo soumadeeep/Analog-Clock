@@ -1,2 +1,2 @@
 # Analog-Clock
-It's a website closk
+It's a website closk.
